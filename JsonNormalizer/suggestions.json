@@ -1,0 +1,185 @@
+{
+    "Cities": [
+        {
+            "Id": "11600",
+            "Iata": "LAX",
+            "CountryId": "US",
+            "Coordinates": [ 34.0522342, -118.2436849 ],
+            "Text": "Los Angeles"
+        },
+        {
+            "Id": "11358",
+            "Iata": "LAS",
+            "CountryId": "US",
+            "Coordinates": [ 36.1699412, -115.1398296 ],
+            "Text": "Las Vegas"
+        },
+        {
+            "Id": "7013",
+            "Iata": "FLL",
+            "CountryId": "US",
+            "Coordinates": [ 26.1224386, -80.1373174 ],
+            "Text": "Fort Lauderdale"
+        },
+        {
+            "Id": "11565",
+            "Iata": "LON",
+            "CountryId": "GB",
+            "Coordinates": [ 51.5073509, -0.1277583 ],
+            "Text": "London"
+        },
+        {
+            "Id": "11484",
+            "Iata": "LIM",
+            "CountryId": "PE",
+            "Coordinates": [ -12.046374, -77.0427934 ],
+            "Text": "Lima"
+        },
+        {
+            "Id": "11516",
+            "Iata": "LIS",
+            "CountryId": "PT",
+            "Coordinates": [ 38.7222524, -9.1393366 ],
+            "Text": "Lisbon"
+        },
+        {
+            "Id": "7852",
+            "Iata": "GOT",
+            "CountryId": "SE",
+            "Coordinates": [ 57.70887, 11.97456 ],
+            "Text": "Gothenburg"
+        }
+    ],
+    "Countries": [
+        {
+            "Id": "US",
+            "ContinentId": "NA",
+            "Coordinates": [ 37.09024, -95.712891 ],
+            "Text": "USA"
+        },
+        {
+            "Id": "GB",
+            "ContinentId": "EU",
+            "Coordinates": [ 55.378051, -3.435973 ],
+            "Text": "United Kingdom"
+        },
+        {
+            "Id": "PE",
+            "ContinentId": "SA",
+            "Coordinates": [ -9.189967, -75.015152 ],
+            "Text": "Peru"
+        },
+        {
+            "Id": "PT",
+            "ContinentId": "EU",
+            "Coordinates": [ 39.399872, -8.224454 ],
+            "Text": "Portugal"
+        },
+        {
+            "Id": "SE",
+            "ContinentId": "EU",
+            "Coordinates": [ 60.128161, 18.643501 ],
+            "Text": "Sweden"
+        },
+        {
+            "Id": "LB",
+            "ContinentId": "AS",
+            "Coordinates": [ 33.854721, 35.862285 ],
+            "Text": "Lebanon"
+        }
+    ],
+    "Continents": [
+        {
+            "Id": "NA",
+            "CodeAlpha1": "N",
+            "Coordinates": [ 54.526, -105.2551 ],
+            "Text": ""
+        },
+        {
+            "Id": "EU",
+            "CodeAlpha1": "E",
+            "Coordinates": [ 54.526, 15.2551 ],
+            "Text": ""
+        },
+        {
+            "Id": "SA",
+            "CodeAlpha1": "S",
+            "Coordinates": [ -8.7832, -55.4915 ],
+            "Text": ""
+        },
+        {
+            "Id": "AS",
+            "CodeAlpha1": "A",
+            "Coordinates": [ 36.0, 100.6197 ],
+            "Text": ""
+        }
+    ],
+    "Stations": [
+        {
+            "Id": "2662",
+            "Iata": "GOT",
+            "CountryId": "SE",
+            "CityId": "7852",
+            "Coordinates": [ 57.66, 12.291111111 ],
+            "Text": "Gothenburg-Landvetter Airport"
+        },
+        {
+            "Id": "5785",
+            "Iata": "LAX",
+            "CountryId": "US",
+            "CityId": "11600",
+            "Coordinates": [ 33.9415889, -118.40853 ],
+            "Text": "Los Angeles International Airport"
+        },
+        {
+            "Id": "5643",
+            "Iata": "LIS",
+            "CountryId": "PT",
+            "CityId": "11516",
+            "Coordinates": [ 38.7755936, -9.1353667 ],
+            "Text": "Lisbon Airport"
+        }
+    ],
+    "Suggestions": [
+        {
+            "Type": "City",
+            "Id": "11600"
+        },
+        {
+            "Type": "City",
+            "Id": "11358"
+        },
+        {
+            "Type": "City",
+            "Id": "7013"
+        },
+        {
+            "Type": "City",
+            "Id": "11565"
+        },
+        {
+            "Type": "Airport",
+            "Id": "2662"
+        },
+        {
+            "Type": "City",
+            "Id": "11484"
+        },
+        {
+            "Type": "Country",
+            "Id": "LB"
+        },
+        {
+            "Type": "Airport",
+            "Id": "5785"
+        },
+        {
+            "Type": "City",
+            "Id": "11516"
+        },
+        {
+            "Type": "Airport",
+            "Id": "5643"
+        }
+    ]
+}
