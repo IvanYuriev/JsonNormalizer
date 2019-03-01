@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JsonNormalizer": {
+      "commandName": "Project",
+      "commandLineArgs": "suggestions.json"
+    }
+  }
+}
